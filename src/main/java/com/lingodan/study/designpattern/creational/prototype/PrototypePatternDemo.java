@@ -7,8 +7,6 @@ public class PrototypePatternDemo {
 
         Shape clonedShape = ShapeCache.getShape("1");
         System.out.println(clonedShape.getType());
-
     }
-
 
 }
