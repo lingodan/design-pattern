@@ -28,3 +28,5 @@ https://www.cnblogs.com/volcano-liu/p/10897897.html
 装饰器模式是继承关系的一个替代方案。我们看装饰类Decorator，不管装饰多少层，返回的对象还是Component(因为Decorator本身就是继承自Component的)，实现的还是is-a的关系。
 装饰器模式与继承之间类似。
 https://blog.csdn.net/qq_35551089/article/details/101558508
+
+new feature:20230630
